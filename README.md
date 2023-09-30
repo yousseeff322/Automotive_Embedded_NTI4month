@@ -11,8 +11,8 @@
 | ADC `(basic functions)` |Switchs|BIT_Math|LED converging
 | EXTI `(External Interrupt)` |7SEG||LED Flash_Every500MS
 | GIE `(Global Interrupt)` |LCD||LED ShiflLeftEvery250MS
-| USART|KPD||[]()🔝
-| SPI|||[]()🔝
+| USART|KPD||()🔝
+| SPI||()🔝
 
 ---
 
