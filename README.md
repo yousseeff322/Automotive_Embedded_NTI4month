@@ -11,32 +11,13 @@
 | ADC `(basic functions)` |Switchs|BIT_Math|LED converging
 | EXTI `(External Interrupt)` |7SEG||LED Flash_Every500MS
 | GIE `(Global Interrupt)` |LCD||LED ShiflLeftEvery250MS
-| USART|KPD||[LCD_Bullet_War_Game](https://github.com/Osama-Abd-El-Mohsen/Automotive_Embedded_NTI4month/tree/main/Projects/LCD_Bullet_War_Game)🔝
-| SPI|||[SPI_Master_Slave_Test ](https://github.com/Osama-Abd-El-Mohsen/Automotive_Embedded_NTI4month/tree/main/Projects/SPI_test)🔝
+| USART|KPD||[LCD_Bullet_War_Game]()🔝
+| SPI|||[SPI_Master_Slave_Test ]()🔝
 
 ---
 
 ## **📂Projects Installation**
   ### Softwares used 
   ### ( [Atmel Studio](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio)   For The Code ) & ( [Proteus 8] (https://www.labcenter.com) For Simulation) 
----
-# Top Projects
- # 1 [LCD_Bullet_War_Game]()🚀
- Two Players War Game 
- 
- ## **Testing Drivers**  
- | 1. EXTI driver | 2. GIE driver | 3. LCD driver |4. Switch driver |
- |  ------- | ------- | ------- | ------- |
-
-![]()
-# 2 [SPI_Master_Slave_Test ]()💬
-SPI Communication between Two Atmega32
- ## **Testing Drivers**  
- 
- | 1. SPI |2. LED|
- |  ---- |---- |
- 
-![]()
-
 ---
 
